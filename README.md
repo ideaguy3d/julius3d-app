@@ -1,3 +1,7 @@
+# www.julius3d.com
+[Julius3D](https://www.julius3d.com)
+This is going to be my new portfolio web app, I used the following boilerplate to get it started:
+
 # angularfire-seed — the seed for Angular+Firebase apps
 
 [![Build Status](https://travis-ci.org/firebase/angularfire-seed.svg)](https://travis-ci.org/firebase/angularfire-seed)

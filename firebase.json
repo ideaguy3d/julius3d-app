@@ -1,0 +1,9 @@
+{
+  "firebase": "j3d",
+  "public": "app",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
